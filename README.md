@@ -1,3 +1,4 @@
 # obsidian
 my own obsidian notes.
-edited 30.10.2024 22:33
+edited 31.10.2024 00:12 :LiHeart:
+
