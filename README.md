@@ -2,5 +2,5 @@
 my own obsidian notes.
 
 
-edited 03.11.2024 21:03
-
+edited 05.11.2024 14:28
+synced with laptop
