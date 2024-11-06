@@ -1,10 +1,7 @@
 # obsidian
 my own obsidian notes.
 
-edited 06.11.2024 13:48
+edited 06.11.2024 18:22
 =======
-update 06.11.2024 13:48
-added:
-1) templates
-2) daily
-3) targets
+update 06.11.2024 18:22.
+added: PostgreSQL course
