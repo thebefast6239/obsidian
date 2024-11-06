@@ -3,7 +3,10 @@ my own obsidian notes.
 
 
 <<<<<<< HEAD
-edited 06.11.2024 13:41
+edited 06.11.2024 13:44
 =======
-upd 06.11.2024 13:41
-added a lot of things!
+upd 06.11.2024 13:44
+added:
+	templates
+	daily
+	targets
