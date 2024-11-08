@@ -102,7 +102,7 @@ CREATE TABLE book
 CREATE TABLE author
 (
 	author_id integer PRIMARY KEY,
-	full_name text not NULL,
+	full_name text NOT NULL,
 	rating real
 );
 
