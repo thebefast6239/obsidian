@@ -1,7 +1,7 @@
 # obsidian
 my own obsidian notes.
 
-edited 06.11.2024 18:28
+update
 =======
-update 06.11.2024 18:28.
-added a lot of things today
+edited 08.11.2024 14:08.
+добавлен список просмотра
